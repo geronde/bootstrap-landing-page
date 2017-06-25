@@ -1,0 +1,41 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body {
+	background-color: tomato;
+}
+header {
+	background-color: #f8f8f8;
+}
+header ul {
+	margin: 0;
+}
+
+header a,
+header li {
+padding: 1.4rem 0;
+color: #777;
+font-weight: bold;
+}
+
+#intro-header  {
+background-size:cover;
+background-color: lightblue;
+}
+
+#intro-header .wrap-headline {
+position: relative;
+padding-top: 20%;
+padding-bottom: 20%;
+}
+
+
+
+
+
+
+
+
+
